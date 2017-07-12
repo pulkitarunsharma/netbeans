@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel git learning
+                    Laravel git learning second commit
                 </div>
 
                 <div class="links">
