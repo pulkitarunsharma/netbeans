@@ -79,9 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-
                     Laravel git learning  branch merging
-
                 </div>
 
                 <div class="links">
